@@ -1,0 +1,42 @@
+Atividade 4 - Rafael Silva Oliveira
+Ler a descrição abaixo com cuidado e responder:
+
+-O que você entendeu da Situação Atual e problemas?
+A situação atual é a secretária fazendo a gestão de todas as reuniões de todos
+os setores da empresa, mantendo o controle de datas, horários e setores por meio
+de planilhas excel. Os problemas que isso traz é depender de uma pessoa e sua 
+competência para gerir todas as reuniões da empresa, o que além de não ser muito
+efetivo pode causar confusão de horários e salas das reuniões, gerando erros 
+evitáveis e situações complexas para reagendamentos de reuniões.
+
+-Qual a sua Proposta de Solução?
+Minha proposta é a criação de uma aplicação que resolva os problemas principais,
+sendo o controle de agendamentos, gerenciamento de salas, com notificações e 
+lembretes de reuniões e reagendamento automático de reuniões canceladas com 
+determinado tempo de antecedência.
+
+-Faça uma Lista dos Requisitos Funcionais.
+1. Agendamento de Reuniões
+Permitir que os usuários agendem reuniões informando data, horário, participantes e setor.
+Verificação automática de conflitos de horários entre reuniões.
+
+2. Gerenciamento de Salas de Reunião
+Cadastro e visualização de salas disponíveis com capacidade e equipamentos.
+Reserva automática da sala com base na disponibilidade e necessidades da reunião.
+Cancelamento de reservas e liberação automática da sala quando necessário.
+
+3. Notificações e Lembretes
+Envio de lembretes automáticos por notificações no aplicativo.
+Notificações para os participantes confirmarem presença.
+Alerta sobre reuniões que precisam ser reagendadas.
+
+4. Reagendamento Automático
+Sugestão de novos horários em caso de conflitos ou cancelamentos.
+
+5. Controle de Participantes e Permissões
+Perfis de usuário com diferentes níveis de acesso (colaborador, gerente, administrador).
+
+6. Interface e Usabilidade
+Interface intuitiva e responsiva para uso em desktop e mobile.
+Filtros e pesquisa para encontrar reuniões e salas rapidamente.
+Opção de visualização de calendário semanal e mensal.
